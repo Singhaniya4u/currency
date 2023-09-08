@@ -11,8 +11,7 @@ body {
 	font-family: arial;
 	font-size: 16px;
 	margin: 0;
-	background: url(background.jpg);
-	background-repeat: none;
+	background: url(background.jpeg);
 	color: #fff;
 	display: flex;
 	align-items: center;
